@@ -1,0 +1,101 @@
+VendorID,VendorName,ServiceType,Country,RiskImpact,RiskLikelihood,OpenVulnerabilities,IncidentHistory,ISO27001_Compliance,NIST_CSF_Adoption,OverallRiskScore,Is_AI_Vendor,OWASP_LLM_Check,BreachLikelihoodScore
+1,Vendor_001,Cloud Services,Germany,4,2,25,2,Non-Compliant,Medium,8,FALSE,N/A,62
+2,Vendor_002,AI Model Provider,Canada,5,4,39,0,Non-Compliant,Medium,20,TRUE,Insecure Output: Vulnerable,39
+3,Vendor_003,SaaS Platform,Canada,2,5,16,2,Partially Compliant,Medium,10,FALSE,N/A,48
+4,Vendor_004,Cloud Services,Canada,5,3,49,2,Compliant,Medium,15,FALSE,N/A,54
+5,Vendor_005,AI Model Provider,USA,1,4,15,3,Non-Compliant,Low,4,TRUE,Data Leakage: Mitigated,72
+6,Vendor_006,SaaS Platform,UK,4,3,9,2,Partially Compliant,Medium,12,FALSE,N/A,44
+7,Vendor_007,Consulting,Canada,3,1,36,4,Compliant,High,3,FALSE,N/A,78
+8,Vendor_008,Cloud Services,UK,4,3,37,2,Compliant,High,12,FALSE,N/A,48
+9,Vendor_009,AI Model Provider,UK,3,2,49,1,Non-Compliant,Medium,6,TRUE,Data Leakage: Vulnerable,59
+10,Vendor_010,Data Processor,India,4,1,1,4,Partially Compliant,Medium,4,FALSE,N/A,70
+11,Vendor_011,AI Model Provider,Singapore,3,4,33,0,Compliant,Low,12,TRUE,Data Leakage: Mitigated,16
+12,Vendor_012,AI Model Provider,Singapore,1,5,19,1,Compliant,Low,5,TRUE,Insecure Output: Vulnerable,24
+13,Vendor_013,Consulting,Ghana,3,3,29,0,Compliant,Low,9,FALSE,N/A,14
+14,Vendor_014,SaaS Platform,Canada,4,2,3,2,Non-Compliant,High,8,FALSE,N/A,51
+15,Vendor_015,Managed IT,Canada,2,2,31,0,Compliant,Medium,4,FALSE,N/A,15
+16,Vendor_016,AI Model Provider,Canada,4,5,40,4,Compliant,Low,20,TRUE,Data Leakage: Mitigated,80
+17,Vendor_017,SaaS Platform,UK,3,4,19,0,Compliant,Low,12,FALSE,N/A,9
+18,Vendor_018,AI Model Provider,USA,2,4,11,0,Partially Compliant,High,8,TRUE,Model Theft: Vulnerable,15
+19,Vendor_019,AI Model Provider,India,4,2,49,2,Partially Compliant,High,8,TRUE,Model Theft: Mitigated,64
+20,Vendor_020,Cloud Services,USA,5,2,26,0,Partially Compliant,High,10,FALSE,N/A,23
+21,Vendor_021,SaaS Platform,UK,5,5,17,3,Partially Compliant,Medium,25,FALSE,N/A,63
+22,Vendor_022,Cloud Services,Singapore,5,4,9,4,Non-Compliant,Low,20,FALSE,N/A,84
+23,Vendor_023,Managed IT,UK,3,1,26,3,Non-Compliant,Low,3,FALSE,N/A,78
+24,Vendor_024,Managed IT,Ghana,3,4,42,3,Non-Compliant,High,12,FALSE,N/A,86
+25,Vendor_025,AI Model Provider,India,1,3,30,0,Partially Compliant,Medium,3,TRUE,Insecure Output: Mitigated,25
+26,Vendor_026,AI Model Provider,India,2,1,12,0,Compliant,Low,2,TRUE,Model Theft: Mitigated,6
+27,Vendor_027,AI Model Provider,USA,3,3,20,2,Partially Compliant,High,9,TRUE,Data Leakage: Vulnerable,50
+28,Vendor_028,Managed IT,Germany,5,4,42,4,Compliant,High,20,FALSE,N/A,81
+29,Vendor_029,Consulting,Germany,2,4,29,0,Partially Compliant,Low,8,FALSE,N/A,24
+30,Vendor_030,Managed IT,Ghana,1,2,29,1,Non-Compliant,Medium,2,FALSE,N/A,49
+31,Vendor_031,Managed IT,Germany,3,3,5,0,Partially Compliant,High,9,FALSE,N/A,12
+32,Vendor_032,Managed IT,UK,3,5,0,1,Partially Compliant,High,15,FALSE,N/A,25
+33,Vendor_033,Consulting,USA,3,3,10,1,Partially Compliant,Medium,9,FALSE,N/A,30
+34,Vendor_034,AI Model Provider,Germany,2,4,16,4,Compliant,High,8,TRUE,Model Theft: Vulnerable,68
+35,Vendor_035,Managed IT,India,5,2,24,2,Partially Compliant,High,10,FALSE,N/A,52
+36,Vendor_036,Consulting,Canada,4,3,34,0,Compliant,High,12,FALSE,N/A,17
+37,Vendor_037,SaaS Platform,UK,3,3,7,2,Partially Compliant,High,9,FALSE,N/A,43
+38,Vendor_038,Data Processor,Ghana,4,4,0,1,Partially Compliant,Low,16,FALSE,N/A,25
+39,Vendor_039,Consulting,Singapore,3,2,46,2,Partially Compliant,High,6,FALSE,N/A,63
+40,Vendor_040,Consulting,UK,1,5,24,1,Non-Compliant,Low,5,FALSE,N/A,47
+41,Vendor_041,Data Processor,Singapore,3,4,33,1,Non-Compliant,Low,12,FALSE,N/A,51
+42,Vendor_042,Cloud Services,UK,1,1,40,3,Partially Compliant,Medium,1,FALSE,N/A,75
+43,Vendor_043,SaaS Platform,Ghana,1,5,26,1,Non-Compliant,High,5,FALSE,N/A,48
+44,Vendor_044,Cloud Services,Canada,4,2,16,3,Partially Compliant,Medium,8,FALSE,N/A,63
+45,Vendor_045,Consulting,Singapore,4,4,15,0,Compliant,Low,16,FALSE,N/A,7
+46,Vendor_046,AI Model Provider,India,2,4,3,2,Partially Compliant,High,8,TRUE,Insecure Output: Vulnerable,41
+47,Vendor_047,SaaS Platform,UK,5,5,2,1,Non-Compliant,Low,25,FALSE,N/A,36
+48,Vendor_048,Data Processor,Singapore,5,5,20,0,Non-Compliant,Low,25,FALSE,N/A,30
+49,Vendor_049,Cloud Services,Germany,3,4,49,1,Non-Compliant,Medium,12,FALSE,N/A,59
+50,Vendor_050,SaaS Platform,Canada,4,4,35,3,Compliant,Medium,16,FALSE,N/A,62
+51,Vendor_051,AI Model Provider,USA,3,3,11,2,Partially Compliant,Medium,9,TRUE,Model Theft: Vulnerable,45
+52,Vendor_052,Consulting,Canada,1,4,9,1,Compliant,Medium,4,FALSE,N/A,19
+53,Vendor_053,Data Processor,Germany,1,3,22,0,Partially Compliant,Low,3,FALSE,N/A,21
+54,Vendor_054,Cloud Services,India,2,4,31,0,Non-Compliant,Medium,8,FALSE,N/A,35
+55,Vendor_055,AI Model Provider,USA,2,4,11,3,Non-Compliant,Medium,8,TRUE,Data Leakage: Mitigated,70
+56,Vendor_056,Consulting,India,2,2,7,3,Compliant,Medium,4,FALSE,N/A,48
+57,Vendor_057,Cloud Services,Singapore,4,2,4,2,Partially Compliant,High,8,FALSE,N/A,42
+58,Vendor_058,Consulting,Singapore,5,1,23,0,Non-Compliant,High,5,FALSE,N/A,31
+59,Vendor_059,AI Model Provider,USA,1,1,0,2,Partially Compliant,Low,1,TRUE,Model Theft: Mitigated,40
+60,Vendor_060,Managed IT,UK,1,5,16,0,Compliant,Low,5,FALSE,N/A,8
+61,Vendor_061,SaaS Platform,Canada,1,2,16,2,Non-Compliant,Medium,2,FALSE,N/A,58
+62,Vendor_062,Managed IT,India,2,4,26,4,Non-Compliant,High,8,FALSE,N/A,93
+63,Vendor_063,Cloud Services,Canada,1,2,7,1,Non-Compliant,Low,2,FALSE,N/A,38
+64,Vendor_064,AI Model Provider,Singapore,3,4,42,4,Non-Compliant,High,12,TRUE,Data Leakage: Mitigated,100
+65,Vendor_065,Cloud Services,Ghana,2,1,8,4,Compliant,High,2,FALSE,N/A,64
+66,Vendor_066,AI Model Provider,Germany,2,3,37,4,Compliant,High,6,TRUE,Insecure Output: Mitigated,78
+67,Vendor_067,Managed IT,Germany,1,4,23,0,Partially Compliant,High,4,FALSE,N/A,21
+68,Vendor_068,SaaS Platform,Singapore,4,4,23,1,Non-Compliant,Medium,16,FALSE,N/A,46
+69,Vendor_069,AI Model Provider,USA,4,4,23,4,Partially Compliant,High,16,TRUE,Insecure Output: Mitigated,81
+70,Vendor_070,SaaS Platform,USA,1,2,42,3,Partially Compliant,Medium,2,FALSE,N/A,76
+71,Vendor_071,Consulting,Ghana,5,3,21,3,Non-Compliant,High,15,FALSE,N/A,75
+72,Vendor_072,Managed IT,Singapore,3,4,31,4,Partially Compliant,Medium,12,FALSE,N/A,85
+73,Vendor_073,Managed IT,Ghana,1,3,33,0,Non-Compliant,High,3,FALSE,N/A,36
+74,Vendor_074,AI Model Provider,Singapore,3,4,27,0,Partially Compliant,Medium,12,TRUE,Insecure Output: Vulnerable,23
+75,Vendor_075,Cloud Services,UK,5,3,29,0,Non-Compliant,High,15,FALSE,N/A,34
+76,Vendor_076,AI Model Provider,UK,3,3,1,1,Compliant,High,9,TRUE,Model Theft: Mitigated,15
+77,Vendor_077,Data Processor,Ghana,4,1,19,1,Compliant,Low,4,FALSE,N/A,24
+78,Vendor_078,SaaS Platform,USA,4,3,43,2,Compliant,Low,12,FALSE,N/A,51
+79,Vendor_079,Managed IT,Germany,1,4,1,2,Partially Compliant,Low,4,FALSE,N/A,40
+80,Vendor_080,Consulting,UK,1,2,16,0,Non-Compliant,Low,2,FALSE,N/A,28
+81,Vendor_081,SaaS Platform,Canada,4,2,13,4,Partially Compliant,Medium,8,FALSE,N/A,76
+82,Vendor_082,SaaS Platform,Ghana,2,2,25,1,Non-Compliant,Low,4,FALSE,N/A,47
+83,Vendor_083,Consulting,UK,1,3,11,0,Compliant,High,3,FALSE,N/A,5
+84,Vendor_084,Managed IT,Ghana,4,1,34,3,Partially Compliant,Low,4,FALSE,N/A,72
+85,Vendor_085,Cloud Services,UK,1,3,45,1,Non-Compliant,Medium,3,FALSE,N/A,57
+86,Vendor_086,AI Model Provider,Germany,2,4,45,1,Non-Compliant,High,8,TRUE,Model Theft: Mitigated,57
+87,Vendor_087,Managed IT,Singapore,4,4,37,2,Non-Compliant,Medium,16,FALSE,N/A,68
+88,Vendor_088,Managed IT,UK,2,3,39,2,Compliant,Medium,6,FALSE,N/A,49
+89,Vendor_089,Data Processor,Ghana,1,3,13,3,Non-Compliant,High,3,FALSE,N/A,71
+90,Vendor_090,Data Processor,Singapore,2,1,30,0,Compliant,Low,2,FALSE,N/A,15
+91,Vendor_091,Managed IT,Germany,3,5,24,3,Non-Compliant,Low,15,FALSE,N/A,77
+92,Vendor_092,Consulting,India,2,4,37,1,Compliant,Low,8,FALSE,N/A,33
+93,Vendor_093,Managed IT,India,4,1,10,3,Non-Compliant,High,4,FALSE,N/A,70
+94,Vendor_094,Data Processor,UK,2,4,49,4,Compliant,Low,8,FALSE,N/A,84
+95,Vendor_095,Consulting,India,3,3,7,3,Non-Compliant,Low,9,FALSE,N/A,68
+96,Vendor_096,SaaS Platform,USA,5,1,33,2,Partially Compliant,Low,5,FALSE,N/A,56
+97,Vendor_097,Data Processor,Ghana,4,4,44,2,Partially Compliant,Low,16,FALSE,N/A,62
+98,Vendor_098,Cloud Services,Canada,4,1,11,4,Partially Compliant,High,4,FALSE,N/A,75
+99,Vendor_099,Consulting,USA,2,5,13,0,Compliant,Medium,10,FALSE,N/A,6
+100,Vendor_100,Data Processor,UK,1,2,1,0,Compliant,High,2,FALSE,N/A,0
